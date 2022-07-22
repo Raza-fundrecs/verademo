@@ -1,3 +1,5 @@
+# This is to integrate with SonarCloud
+
 # VeraDemo - Blab-a-Gag
 
 ### :information_source: Notice
